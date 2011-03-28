@@ -1,0 +1,89 @@
+Tpipeforxcode
+v7
+r0
+t292335443.230324
+cCheck dependencies
+cCompileC build/pipeforxcode.build/Debug/pipeforxcode.build/Objects-normal/x86_64/main.o /Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/wangyi/Desktop/NamelessPipe/pipeforxcode/build/Debug/pipeforxcode normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/time.h
+c000000004A5C14A7000000000000178E
+t1247548583
+s6030
+
+N/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/build/Debug/pipeforxcode
+t1270642643
+s9424
+
+N/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/build/pipeforxcode.build/Debug/pipeforxcode.build/Objects-normal/x86_64/main.o
+t1270642642
+s3832
+
+N/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/build/pipeforxcode.build/Debug/pipeforxcode.build/Objects-normal/x86_64/pipeforxcode.LinkFileList
+c000000004BBC77D2000000000000007F
+t1270642642
+s127
+
+N/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c
+c000000004BBC77D200000000000002E2
+t1270642642
+s738
+i<stdio.h>
+i<time.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292335442#292335442#0(0"0(0#1#0"32088628383449192#0"0#
+
+CCompileC build/pipeforxcode.build/Debug/pipeforxcode.build/Objects-normal/x86_64/main.o /Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s292335442.612949
+e292335442.919675
+r1
+xCompileC
+xbuild/pipeforxcode.build/Debug/pipeforxcode.build/Objects-normal/x86_64/main.o
+x/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c: In function 'main':
+o/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:16: warning: implicit declaration of function 'srand'
+o/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:19: warning: implicit declaration of function 'pipe'
+o/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:21: warning: implicit declaration of function 'exit'
+o/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:21: warning: incompatible implicit declaration of built-in function 'exit'
+o/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:24: warning: implicit declaration of function 'fork'
+o/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:26: warning: incompatible implicit declaration of built-in function 'exit'
+o/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:33: warning: implicit declaration of function 'atoi'
+o/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:34: warning: implicit declaration of function 'write'
+o/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:34: warning: implicit declaration of function 'rand'
+o/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:37: warning: implicit declaration of function 'wait'
+o/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:30: warning: unused variable 'temp'
+o/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:41: warning: implicit declaration of function 'read'
+o/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:47: warning: incompatible implicit declaration of built-in function 'exit'
+o/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:14: warning: unused variable 'j'
+o/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:12: warning: unused variable 'Symbal'
+o/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:10: warning: unused variable 'inbuf2'
+o/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:9: warning: unused variable 'inbuf'
+o/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:8: warning: return type of 'main' is not 'int'
+lSLF07#2@62"Compile /Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c292335442#292335442#0(1998"/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c: In function 'main':/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:16: warning: implicit declaration of function 'srand'/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:19: warning: implicit declaration of function 'pipe'/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:21: warning: implicit declaration of function 'exit'/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:21: warning: incompatible implicit declaration of built-in function 'exit'/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:24: warning: implicit declaration of function 'fork'/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:26: warning: incompatible implicit declaration of built-in function 'exit'/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:33: warning: implicit declaration of function 'atoi'/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:34: warning: implicit declaration of function 'write'/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:34: warning: implicit declaration of function 'rand'/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:37: warning: implicit declaration of function 'wait'/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:30: warning: unused variable 'temp'/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:41: warning: implicit declaration of function 'read'/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:47: warning: incompatible implicit declaration of built-in function 'exit'/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:14: warning: unused variable 'j'/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:12: warning: unused variable 'Symbal'/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:10: warning: unused variable 'inbuf2'/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:9: warning: unused variable 'inbuf'/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c:8: warning: return type of 'main' is not 'int'18(22@40"Implicit declaration of function 'srand'292335442#76#109#0(6@54"/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c292335442#16#0#16#0#36"implicit declaration of function '*'0(22@39"Implicit declaration of function 'pipe'292335442#185#108#0(6@54"/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c292335442#19#0#19#0#36"implicit declaration of function '*'0(22@39"Implicit declaration of function 'exit'292335442#293#108#0(6@54"/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c292335442#21#0#21#0#36"implicit declaration of function '*'0(22@61"Incompatible implicit declaration of built-in function 'exit'292335442#401#130#0(6@54"/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c292335442#21#0#21#0#0"0(22@39"Implicit declaration of function 'fork'292335442#531#108#0(6@54"/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c292335442#24#0#24#0#36"implicit declaration of function '*'0(22@61"Incompatible implicit declaration of built-in function 'exit'292335442#639#130#0(6@54"/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c292335442#26#0#26#0#0"0(22@39"Implicit declaration of function 'atoi'292335442#769#108#0(6@54"/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c292335442#33#0#33#0#36"implicit declaration of function '*'0(22@40"Implicit declaration of function 'write'292335442#877#109#0(6@54"/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c292335442#34#0#34#0#36"implicit declaration of function '*'0(22@39"Implicit declaration of function 'rand'292335442#986#108#0(6@54"/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c292335442#34#0#34#0#36"implicit declaration of function '*'0(22@39"Implicit declaration of function 'wait'292335442#1094#108#0(6@54"/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c292335442#37#0#37#0#36"implicit declaration of function '*'0(22@22"Unused variable 'temp'292335442#1202#91#0(6@54"/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c292335442#30#0#30#0#19"unused variable '*'0(22@39"Implicit declaration of function 'read'292335442#1293#108#0(6@54"/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c292335442#41#0#41#0#36"implicit declaration of function '*'0(22@61"Incompatible implicit declaration of built-in function 'exit'292335442#1401#130#0(6@54"/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c292335442#47#0#47#0#0"0(22@19"Unused variable 'j'292335442#1531#88#0(6@54"/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c292335442#14#0#14#0#19"unused variable '*'0(22@24"Unused variable 'Symbal'292335442#1619#93#0(6@54"/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c292335442#12#0#12#0#19"unused variable '*'0(22@24"Unused variable 'inbuf2'292335442#1712#93#0(6@54"/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c292335442#10#0#10#0#19"unused variable '*'0(22@23"Unused variable 'inbuf'292335442#1805#91#0(6@54"/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c292335442#9#0#9#0#19"unused variable '*'0(22@34"Return type of 'main' is not 'int'292335442#1896#102#0(6@54"/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c292335442#8#0#8#0#0"0(0#0#54"/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c7307761437599099904#1459"    cd /Users/wangyi/Desktop/NamelessPipe/pipeforxcode    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/wangyi/Desktop/NamelessPipe/pipeforxcode/build/pipeforxcode.build/Debug/pipeforxcode.build/pipeforxcode-generated-files.hmap -I/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/build/pipeforxcode.build/Debug/pipeforxcode.build/pipeforxcode-own-target-headers.hmap -I/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/build/pipeforxcode.build/Debug/pipeforxcode.build/pipeforxcode-all-target-headers.hmap -iquote /Users/wangyi/Desktop/NamelessPipe/pipeforxcode/build/pipeforxcode.build/Debug/pipeforxcode.build/pipeforxcode-project-headers.hmap -F/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/build/Debug -I/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/build/Debug/include -I/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/build/pipeforxcode.build/Debug/pipeforxcode.build/DerivedSources/x86_64 -I/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/build/pipeforxcode.build/Debug/pipeforxcode.build/DerivedSources -c /Users/wangyi/Desktop/NamelessPipe/pipeforxcode/main.c -o /Users/wangyi/Desktop/NamelessPipe/pipeforxcode/build/pipeforxcode.build/Debug/pipeforxcode.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/wangyi/Desktop/NamelessPipe/pipeforxcode/build/Debug/pipeforxcode normal x86_64
+s292335442.919803
+e292335443.230243
+r1
+xLd
+x/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/build/Debug/pipeforxcode
+xnormal
+xx86_64
+lSLF07#2@77"Link /Users/wangyi/Desktop/NamelessPipe/pipeforxcode/build/Debug/pipeforxcode292335442#292335443#0(0"0(0#0#0"28147961534414964#563"    cd /Users/wangyi/Desktop/NamelessPipe/pipeforxcode    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/build/Debug -F/Users/wangyi/Desktop/NamelessPipe/pipeforxcode/build/Debug -filelist /Users/wangyi/Desktop/NamelessPipe/pipeforxcode/build/pipeforxcode.build/Debug/pipeforxcode.build/Objects-normal/x86_64/pipeforxcode.LinkFileList -mmacosx-version-min=10.6 -o /Users/wangyi/Desktop/NamelessPipe/pipeforxcode/build/Debug/pipeforxcode0#
+
